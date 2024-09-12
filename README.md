@@ -286,16 +286,17 @@ mvgk9yy6k72o   traefik_traefik       replicated   1/1        traefik:v2.1.4     
 ```
 
 **Access Portainer**: For the Portainer UI, I will use `https://portainer.jonestecsolutions.com/`.<p>
-![alt text]({A5734181-1F56-489C-91E0-EA1956807825}.png)<p>
+![alt text](images/{A5734181-1F56-489C-91E0-EA1956807825}.png)<p>
 
-![alt text]({32BFA50B-36B1-4D86-8EF9-FB93FDE5372E}.png)<p>
+![alt text](images/{32BFA50B-36B1-4D86-8EF9-FB93FDE5372E}.png)<p>
 
-![alt text](image.png)<p>
+![alt text](images/image.png)<p>
 
-![alt text](image-2.png)<p>
+![alt text](images/image-2.png)<p>
 
-![portainer](image-1.png)<p>
+![portainer](images/image-1.png)<p>
 
 ## Conclusion
 
-This Docker Swarm project on Hetzner Cloud showcases a complete application of Docker Swarm to deploy appa. 
+Containerising **Traefik Proxy** and **Portainer** with `Docker Swarm` enhances scalability and high availability by allowing easy service management and automatic traffic routing. It provides a consistent environment and simplifies updates, ensuring minimal downtime. Additionally, it optimises resource allocation and facilitates secure communication between containers.<p>
+By containerising and setting up **Traefik** as a proxy while managing containers with **Portainer**, I have demonstrated proficiency in `Docker` and `containerisation fundamentals`. I have showed my understanding of **orchestration with Docker Swarm and networking skills through effective traffic routing and service discovery**. This experience reflects my capability in **Developing Applications with Docker**.
