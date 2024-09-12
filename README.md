@@ -233,10 +233,10 @@ mvgk9yy6k72o   traefik_traefik   replicated   1/1        traefik:v2.1.4         
 
 ## Accessing the Frontend
 
-1. **Open a Web Browser**: Navigate to `https://whoami.jonestecsolutions.com/` to access the frontend application.<p>
+1. **Open a Web Browser**: I will Navigate to `https://whoami.jonestecsolutions.com/` to access the frontend application.<p>
 ![whoami_webapp](images/whoami.png)
 
-2. **Access API**: For the backend API, use `https://traefik.jonestecsolutions.com/`.<p>
+2. **Access Traefik**: For the traefik, I will use `https://traefik.jonestecsolutions.com/`.<p>
 ![alt text](images/{1DDCD992-FCFF-4BC0-97D5-D983FE589490}.png)<p>
 ![alt text](images/{8CB2AF74-38E3-4933-AE0E-E66EAD61A77B}.png)
 
